@@ -1,0 +1,12 @@
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/bin/Debug/netcoreapp3.1/Triedy.deps.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/bin/Debug/netcoreapp3.1/Triedy.runtimeconfig.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/bin/Debug/netcoreapp3.1/Triedy.runtimeconfig.dev.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/bin/Debug/netcoreapp3.1/Triedy.dll
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/bin/Debug/netcoreapp3.1/Triedy.pdb
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/obj/Debug/netcoreapp3.1/Triedy.csprojAssemblyReference.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/obj/Debug/netcoreapp3.1/Triedy.AssemblyInfoInputs.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/obj/Debug/netcoreapp3.1/Triedy.AssemblyInfo.cs
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/obj/Debug/netcoreapp3.1/Triedy.csproj.CoreCompileInputs.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/obj/Debug/netcoreapp3.1/Triedy.dll
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/obj/Debug/netcoreapp3.1/Triedy.pdb
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Triedy/Triedy/obj/Debug/netcoreapp3.1/Triedy.genruntimeconfig.cache
