@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{04E63FDD-E43D-4DE1-B1C2-C0240E303AAC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Enum/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enum/Enum/EmptyEnumeration.cs">
     <Files>
-      <File FileName="Enum/Program.cs" Line="1" Column="1" />
+      <File FileName="Enum/Program.cs" Line="9" Column="13" />
+      <File FileName="Enum/Enum/EmptyEnumeration.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Enum" expanded="True">
             <Node name="Enum" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Enum" expanded="True">
+                <Node name="EmptyEnumeration.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

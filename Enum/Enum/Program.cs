@@ -1,4 +1,5 @@
 ﻿using System;
+using Enum.Enum;
 
 namespace Enum
 {
@@ -6,7 +7,16 @@ namespace Enum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //volanie enumu
+            Console.WriteLine(TypVozidla.LietajuceAuto);
+
+            //z ID precastovat na enum
+
+            var idVozidla = 1;
+            var typVozidla = (TypVozidla)idVozidla;
+
+            Console.WriteLine(typVozidla);
+
         }
     }
 }

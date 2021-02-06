@@ -1,0 +1,12 @@
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/bin/Debug/netcoreapp3.1/Enum.deps.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.dev.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/bin/Debug/netcoreapp3.1/Enum.dll
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/bin/Debug/netcoreapp3.1/Enum.pdb
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/obj/Debug/netcoreapp3.1/Enum.csprojAssemblyReference.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfoInputs.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfo.cs
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/obj/Debug/netcoreapp3.1/Enum.csproj.CoreCompileInputs.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/obj/Debug/netcoreapp3.1/Enum.dll
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/obj/Debug/netcoreapp3.1/Enum.pdb
+/Users/barbara/Documents/learn2code/CSharp_intermediate/Enum/Enum/obj/Debug/netcoreapp3.1/Enum.genruntimeconfig.cache
