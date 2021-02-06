@@ -17,6 +17,7 @@ namespace Triedy
 
             Console.WriteLine(book1.Title);
 
+            //static funkciu volam na triede nie na objekte 
             Book.OpenBook();
 
         }

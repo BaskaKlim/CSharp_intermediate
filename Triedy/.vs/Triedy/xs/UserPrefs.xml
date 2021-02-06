@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{A489C651-9488-4880-A66E-0F26BF9AC9EF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Triedy/Car/Suciastka.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triedy/Program.cs">
     <Files>
-      <File FileName="Triedy/Program.cs" Line="15" Column="42" />
-      <File FileName="Triedy/Book.cs" Line="14" Column="10" />
+      <File FileName="Triedy/Program.cs" Line="20" Column="61" />
+      <File FileName="Triedy/Book.cs" Line="26" Column="48" />
       <File FileName="Triedy/Car/Suciastka.cs" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -10,9 +10,8 @@
         <State name="__root__">
           <Node name="Triedy" expanded="True">
             <Node name="Triedy" expanded="True">
-              <Node name="Car" expanded="True">
-                <Node name="Suciastka.cs" selected="True" />
-              </Node>
+              <Node name="Car" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
