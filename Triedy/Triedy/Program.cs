@@ -16,6 +16,9 @@ namespace Triedy
             Suciastka suciastka = new Suciastka();
 
             Console.WriteLine(book1.Title);
+
+            Book.OpenBook();
+
         }
     }
 }

@@ -20,5 +20,10 @@ namespace Triedy
             this.Title = Title;
             this.Author = Author;
         }
+
+        public static void OpenBook()
+        {
+            Console.WriteLine("Otvoril si knihu");
+        }
     }
 }
