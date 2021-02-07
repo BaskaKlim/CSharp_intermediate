@@ -37,6 +37,10 @@ namespace DateAndTime
             Console.WriteLine(now.ToShortTimeString()); // 4:17 PM
             Console.WriteLine(now.ToUniversalTime());   // 2/7/2021 3:17:01 PM
 
+            //definovanie vlastneho formatu
+            Console.WriteLine(now.ToString("dd.MM.yy")); //07.02.21
+            Console.WriteLine(now.ToString("dd MMMM yyyy")); //
+
         }
     }
 }
