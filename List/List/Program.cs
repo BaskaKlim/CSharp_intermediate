@@ -68,6 +68,7 @@ namespace List
             lib.Add(b3);
             ints.Remove(99);
             str.Remove("Cernica");
+            ints.RemoveAt(0);
             numb.AddRange(new List<int>() { 2, 6 });
 
             PrintList(ints);
@@ -75,7 +76,14 @@ namespace List
             PrintList(lib);
             PrintList(numb);
 
+            //vyhladavanie v poli ci obsahuje danu hodnotu
+            Console.WriteLine(ints.Contains(5));
+            Console.WriteLine(str.Contains("Bambuca"));
 
+            //zistovanie pocet elementov
+            Console.WriteLine(ints.Count);
+            Console.WriteLine(str.Count);
+            Console.WriteLine(lib.Count);
         }
 
     }
