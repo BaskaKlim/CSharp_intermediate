@@ -1,0 +1,12 @@
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/bin/Debug/netcoreapp3.1/List.deps.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/bin/Debug/netcoreapp3.1/List.runtimeconfig.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/bin/Debug/netcoreapp3.1/List.runtimeconfig.dev.json
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/bin/Debug/netcoreapp3.1/List.dll
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/bin/Debug/netcoreapp3.1/List.pdb
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/obj/Debug/netcoreapp3.1/List.csprojAssemblyReference.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/obj/Debug/netcoreapp3.1/List.AssemblyInfoInputs.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/obj/Debug/netcoreapp3.1/List.AssemblyInfo.cs
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/obj/Debug/netcoreapp3.1/List.csproj.CoreCompileInputs.cache
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/obj/Debug/netcoreapp3.1/List.dll
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/obj/Debug/netcoreapp3.1/List.pdb
+/Users/barbara/Documents/learn2code/CSharp_intermediate/List/List/obj/Debug/netcoreapp3.1/List.genruntimeconfig.cache
