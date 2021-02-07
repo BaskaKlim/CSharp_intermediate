@@ -55,6 +55,7 @@ namespace List
             Book b1 = new Book("Pribeh studia Pixar");
             Book b2 = new Book("Telesna vychova");
             Book b3 = new Book("Ako sa ludia hraju");
+            var numb = new List<int>();
 
             var lib = new List<Book>() { b1, b2 };
 
@@ -67,10 +68,12 @@ namespace List
             lib.Add(b3);
             ints.Remove(99);
             str.Remove("Cernica");
+            numb.AddRange(new List<int>() { 2, 6 });
 
             PrintList(ints);
             PrintList(str);
             PrintList(lib);
+            PrintList(numb);
 
 
         }
